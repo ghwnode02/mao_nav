@@ -7,6 +7,13 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1752857783656",
+          "name": "OpenAI",
+          "url": "https://chatgpt.com",
+          "description": "OpenAI,好用👌",
+          "icon": "/sitelogo/chatgpt.com.ico"
+        },
+        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
@@ -33,13 +40,6 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
-        },
-        {
-          "id": "site-1752857783656",
-          "name": "Deepseek",
-          "url": "https://deepseek.com",
-          "description": "好用的国产模型",
-          "icon": "/sitelogo/deepseek.com.ico"
         }
       ]
     },
@@ -272,18 +272,18 @@ export const mockData = {
           "icon": "/sitelogo/www.bitget.com.ico"
         },
         {
-          "id": "tonghuashun",
-          "name": "同花顺",
-          "url": "https://www.10jqka.com.cn",
-          "description": "专业股票软件及金融信息服务",
-          "icon": "/sitelogo/www.10jqka.com.cn.ico"
-        },
-        {
           "id": "tradingview",
           "name": "TradingView",
           "url": "https://cn.tradingview.com",
           "description": "专业金融图表和交易平台",
           "icon": "/sitelogo/cn.tradingview.com.ico"
+        },
+        {
+          "id": "tonghuashun",
+          "name": "同花顺",
+          "url": "https://www.10jqka.com.cn",
+          "description": "专业股票软件及金融信息服务",
+          "icon": "/sitelogo/www.10jqka.com.cn.ico"
         },
         {
           "id": "xueqiu",
